@@ -1,14 +1,14 @@
 {
-    "name": "tinymce-imageupload",
-    "version": "1.0.2",
-    "description": "tinymce富文本图片上传插件",
+    "name": "tinymce-imageupload-teddy",
+    "version": "1.0.2.1",
+    "description": "tinymce富文本图片上传插件(修改bug)",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/x-shadow-x/tinymce-imageupload.git"
+        "url": "git+https://github.com/hyteddy/tinymce-imageupload.git"
     },
     "keywords": [
         "tinymce",

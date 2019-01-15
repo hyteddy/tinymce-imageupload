@@ -7,7 +7,7 @@ import pluginAPI from "./js/main.js";
     const imgList = { length: 0 };
 
     function open (editor) {
-
+        imgList.length=0;
         editor.windowManager.open({
             title: "本地图片上传",
             width: 500,
